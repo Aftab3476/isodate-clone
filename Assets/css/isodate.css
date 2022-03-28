@@ -1,0 +1,107 @@
+.iso-brand {
+  width: auto;
+  height: 70px;
+}
+.bg-navcolor {
+  background-color: #e0e0e0;
+}
+.iso-btn {
+  background-color: #2a0054 !important;
+  color: #fff !important;
+}
+
+.iso-list {
+  color: black;
+}
+.iso-list:hover {
+  color: 2a0054;
+}
+.events-btn {
+  background-color: #ff354f !important;
+  color: #fff !important;
+  font-size: 20px !important;
+  width: 100%;
+}
+.sing-btn {
+  background-color: #2a0054 !important;
+  color: #fff !important;
+  font-size: 20px !important;
+  width: 100%;
+}
+
+.btn-view {
+  background-color: #2a0054 !important;
+  color: #fff !important;
+}
+
+.device-image {
+  width: 100%;
+  height: auto;
+}
+
+.isodate-form {
+  background-color: #f6f6f6 !important;
+  border: none !important;
+}
+
+.isodate-form:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: rgba(23, 22, 26, 0.07) !important;
+}
+.owl-image {
+  width: 200px !important;
+  height: auto;
+  margin-left: 30%;
+}
+.owl-nav {
+  display: none;
+}
+.btn-send {
+  background-color: #2a0054 !important;
+  color: #ff354f;
+  border-radius: 7px;
+}
+.btn-send:hover {
+  background-color: #ff354f !important;
+  color: #fff;
+  border-radius: 7px;
+}
+
+.next-event {
+  font-size: 58px;
+  font-weight: 700;
+  color: #2a0054;
+}
+
+@media screen and (max-width: 500px) {
+  .next-event {
+    font-size: 41px;
+  }
+}
+@media screen and (min-width: 501px) and (max-width: 1000px) {
+  .next-event {
+    font-size: 42px;
+  }
+}
+
+.last-isodate {
+  width: auto;
+  height: 200px;
+}
+
+.circul {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #000;
+}
+.circul:hover {
+  background-color: #2a0054;
+  color: #fff;
+}
+.icon {
+  padding-top: 7px;
+  padding-left: 10px;
+  font-size: 22px;
+}
