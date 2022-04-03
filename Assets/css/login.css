@@ -1,0 +1,36 @@
+.iso-login-brand {
+  width: 160px;
+  height: 160px;
+}
+.iso-login-brand img {
+  height: 160px;
+  width: 160px;
+}
+@media screen and (max-width: 765px) {
+  .iso-login-brand {
+    text-align: center;
+  }
+}
+
+.login-page {
+  color: #939393 !important;
+}
+
+.login-pages {
+  color: #939393 !important;
+  font-size: 15px;
+}
+.input-login {
+  background-color: #eef2fb !important;
+}
+
+.btn-login {
+  border-radius: 2rem !important;
+  background-color: #ff01aa !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  color: #fff !important;
+}
+.btn-login:hover {
+  background-color: #e91224 !important;
+}
